@@ -1,3 +1,3 @@
 # bachelor-thesis-2026
 
-Thesis (LaTeX) + experiment code.
+卒業論文で使ったコードです。
